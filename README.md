@@ -3,6 +3,7 @@
 Adapted from https://docs.travis-ci.com/user/for-beginners
 
 1. On GitHub, fork this repository.
+1. Clone the repository `git clone {repository url}`
 1. <a href="https://travis-ci.org/auth">Sign in to Travis CI</a> with your GitHub account, accepting the GitHub access permissions confirmation.
 1. Go to your <a href="https://travis-ci.org/profile">profile page</a> and enable Travis CI builds for your fork of the travis-example repository.
 1. Take a look at .travis.yml, the file which tells Travis CI what to do. This file tells Travis CI to install the dependencies and run npm test.
