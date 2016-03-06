@@ -1,0 +1,1085 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"spla",
+				"splashWrapper"
+			],
+			[
+				"splash",
+				"splash-panel-desktop"
+			],
+			[
+				"pMaps",
+				"pMapsExternalButton"
+			],
+			[
+				"pMapsExtern",
+				"pMapsExternalButton"
+			],
+			[
+				"pass",
+				"passwordLabel"
+			],
+			[
+				"pro",
+				"property_id"
+			],
+			[
+				"local",
+				"localDate1"
+			],
+			[
+				"parse",
+				"parseDateTime"
+			],
+			[
+				"form",
+				"formObj"
+			],
+			[
+				"secondary",
+				"secondary_call_type"
+			],
+			[
+				"primary",
+				"primary_call_type"
+			],
+			[
+				"call",
+				"call_begin"
+			],
+			[
+				"sec",
+				"secondaryCallTypeInput"
+			],
+			[
+				"api",
+				"api_key"
+			],
+			[
+				"dat",
+				"dateReceived"
+			],
+			[
+				"submit",
+				"submitCredsButton"
+			],
+			[
+				"sub",
+				"submitCresButtonHolder"
+			],
+			[
+				"su",
+				"submitCredsButton"
+			],
+			[
+				"Te",
+				"TextBox"
+			],
+			[
+				"log",
+				"loginHolder"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"oc",
+				"occupancyTypeMemory"
+			],
+			[
+				"pmap",
+				"pMapsDiv"
+			],
+			[
+				"suggest",
+				"suggestCallback"
+			],
+			[
+				"sav",
+				"saveButtonDiv"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"backg",
+				"background-size"
+			],
+			[
+				"ba",
+				"background-repeat"
+			],
+			[
+				"is",
+				"isAndroid"
+			],
+			[
+				"res",
+				"resizeMobileUI"
+			],
+			[
+				"lef",
+				"leftPanelHeight"
+			],
+			[
+				"leftPanel",
+				"leftPanelContentPane"
+			],
+			[
+				"tab",
+				"tabBarButton4"
+			],
+			[
+				"tabbar",
+				"tabBarButton3"
+			],
+			[
+				"mtbb",
+				"mtbb1"
+			],
+			[
+				"mobile",
+				"mobileTabBar"
+			],
+			[
+				"Tab",
+				"TabBarButton"
+			],
+			[
+				"content",
+				"contentHeight"
+			],
+			[
+				"dom",
+				"domStyle"
+			],
+			[
+				"des",
+				"description"
+			],
+			[
+				"R",
+				"Resource"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"custom",
+				"customVar1"
+			],
+			[
+				"De",
+				"Development"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"rg",
+				"rgba"
+			],
+			[
+				"banner-",
+				"banner-subTitle"
+			],
+			[
+				"cont",
+				"contactHolder"
+			],
+			[
+				"legendHolder",
+				"legendHolder2"
+			],
+			[
+				"lege",
+				"legendHolder"
+			],
+			[
+				"acc",
+				"accordion"
+			],
+			[
+				"accor",
+				"accordionContainer"
+			],
+			[
+				"re",
+				"referenceLayers"
+			],
+			[
+				"fC",
+				"fCorridorContent"
+			],
+			[
+				"nCor",
+				"nCorridorContent"
+			],
+			[
+				"nC",
+				"nCorridorTemplate"
+			],
+			[
+				"cCorridor",
+				"cCorridorTemplate"
+			],
+			[
+				"center",
+				"centerTemplate"
+			],
+			[
+				"set",
+				"setVisibility"
+			],
+			[
+				"tsp",
+				"tspPolygons_1"
+			],
+			[
+				"Popup",
+				"PopupTemplate"
+			],
+			[
+				"jobs",
+				"jobs_Selection"
+			],
+			[
+				"cus",
+				"customVar2"
+			],
+			[
+				"P",
+				"Popup"
+			],
+			[
+				"In",
+				"InfoTemplate"
+			],
+			[
+				"class",
+				"ClassBreaksRenderer"
+			],
+			[
+				"Simp",
+				"SimpleRenderer"
+			],
+			[
+				"SImp",
+				"SimpleLineSymbol"
+			],
+			[
+				"maps",
+				"mapsView"
+			],
+			[
+				"conta",
+				"contactView"
+			],
+			[
+				"faq",
+				"faqView"
+			],
+			[
+				"legend",
+				"legendView"
+			],
+			[
+				"leftPa",
+				"leftPanelViewHolder"
+			],
+			[
+				"leftP",
+				"leftPanelContentPane"
+			],
+			[
+				"tabB",
+				"tabBarButton1"
+			],
+			[
+				"de",
+				"desktopTabBar"
+			],
+			[
+				"Ta",
+				"TabBarButton"
+			],
+			[
+				"glob",
+				"globalID"
+			],
+			[
+				"query",
+				"queryArray"
+			],
+			[
+				"cc",
+				"cc2035_Selection"
+			],
+			[
+				"cc2035",
+				"cc2035_Selection"
+			],
+			[
+				"mode_",
+				"MODE_ONDEMAND"
+			],
+			[
+				"clear",
+				"clearFeatures"
+			],
+			[
+				"secondVi",
+				"secondView_height"
+			],
+			[
+				"get",
+				"getDate"
+			],
+			[
+				"_get",
+				"_getActiveGlobalIDAttr"
+			],
+			[
+				"_getA",
+				"_getActiveViewAttr"
+			],
+			[
+				"tspP",
+				"tspPointSymbol4"
+			],
+			[
+				"tspPoin",
+				"tspPointSymbol3"
+			],
+			[
+				"poin",
+				"pointNullRender"
+			],
+			[
+				"SImple",
+				"SimpleMarkerSymbol"
+			],
+			[
+				"toggleMobile",
+				"toggleMobileStolenGoods"
+			],
+			[
+				"cpCHanges",
+				"cpChanges_Selection"
+			],
+			[
+				"mixedUse",
+				"mixedUse_Selection"
+			],
+			[
+				"visi",
+				"visibleLeftView"
+			],
+			[
+				"thatswhatsUp",
+				"thatswhatsUp_view"
+			],
+			[
+				"mPNav",
+				"mPNavHolder"
+			],
+			[
+				"map",
+				"mapContainer"
+			],
+			[
+				"visible",
+				"visibleLeftView"
+			],
+			[
+				"userName",
+				"userName_dijit"
+			],
+			[
+				"_setUs",
+				"_setUserCommentAttr"
+			],
+			[
+				"_setUser",
+				"_setUserZipAttr"
+			],
+			[
+				"_set",
+				"_setUserEmailAttr"
+			],
+			[
+				"_setActive",
+				"_setActiveRecID"
+			],
+			[
+				"_getActive",
+				"_getActiveRecID"
+			],
+			[
+				"_getActi",
+				"_getActiveLayerAttr"
+			],
+			[
+				"_getAc",
+				"_getActiveGlobalIDAttr"
+			],
+			[
+				"ez",
+				"ezString"
+			],
+			[
+				"n",
+				"NEWZONE"
+			],
+			[
+				"Proposed_",
+				"Proposed_Base_Zone"
+			],
+			[
+				"more",
+				"moreInfo_wrapper"
+			],
+			[
+				"onView",
+				"onViewSubcategory"
+			],
+			[
+				"onViewE",
+				"onViewExistingZone"
+			],
+			[
+				"onViewP",
+				"onViewProposedZone"
+			],
+			[
+				"poly",
+				"polyNullRender"
+			],
+			[
+				"waterAreas",
+				"waterAreas_Selection"
+			],
+			[
+				"mixed",
+				"mixedUse"
+			],
+			[
+				"fe",
+				"FeatureLayer"
+			],
+			[
+				"mixe",
+				"mixedUse_Selection"
+			],
+			[
+				"parksPoints",
+				"parksPoints_Selection"
+			],
+			[
+				"besSewer",
+				"besSewerPoints_Selection"
+			],
+			[
+				"waterPoints",
+				"waterPoints_Selection"
+			],
+			[
+				"tspPoints",
+				"tspPoints_Selection"
+			],
+			[
+				"waterLines",
+				"waterLines_Selection"
+			],
+			[
+				"tspLines",
+				"tspLines_Selection"
+			],
+			[
+				"parksLines",
+				"parksLines_Selection"
+			],
+			[
+				"besSer",
+				"besSewer_Selection"
+			],
+			[
+				"besStor",
+				"besStormwater_Selection"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": ".travis.yml",
+			"settings":
+			{
+				"buffer_size": 123,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"last_filter": "Package Control: Install Package",
+		"selected_items":
+		[
+			[
+				"Package Control: Install Package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install package",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Ins",
+				"Package Control: Install Package"
+			],
+			[
+				"P",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Remove Package"
+			],
+			[
+				"Packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package",
+				"Package Control: Remove Repository"
+			],
+			[
+				"pack",
+				"Package Control: Add Repository"
+			],
+			[
+				"Pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: In",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: IN",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"SVN",
+				"Snippet: #!/usr/bin/env"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"cd Packages/",
+			"cd Packages",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib2,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); os.makedirs( ipp ) if not os.path.exists(ipp) else None; urllib2.install_opener( urllib2.build_opener( urllib2.ProxyHandler()) ); by = urllib2.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); open( os.path.join( ipp, pf), 'wb' ).write(by) if dh == h else None; print('Error validating download (got %s instead of %s), please try manual install' % (dh, h) if dh != h else 'Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Derek/Documents/PCC/Demos/Web/hotline/js/config/config.js",
+		"/C/Users/Derek/Documents/PCC/Demos/Web/hotline/css/hotline.css",
+		"/C/Users/Derek/Documents/PCC/Demos/Web/hotline/js/utils/utils.js",
+		"/C/Users/Derek/Documents/PCC/Demos/Web/hotline/update.cfm",
+		"/C/Users/Derek/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Derek/Documents/PCC/Demos/Web/hotline/js/app.js",
+		"//cgisagswebdev/iisroot$/PortlandMaps/bps/hotline/index.html",
+		"//cgisagswebdev/iisroot$/PortlandMaps/bps/hotline/update.cfm",
+		"/D/miller_docs/web_backup/useful_scripts/cookie.js",
+		"//cgisagswebdev/iisroot$/PortlandMaps/bps/hotline/js/config/config.js",
+		"//cgisagswebdev/iisroot$/PortlandMaps/bps/hotline/css/hotline.css",
+		"//cgisagswebdev/iisroot$/PortlandMaps/bps/hotline/js/utils/utils.js",
+		"/C/Users/demiller/AppData/Roaming/Sublime Text 3/Packages/User/SVN.sublime-settings",
+		"/C/Users/demiller/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"//cgisagswebdev/iisroot$/PortlandMaps/bps/hotline/test.cfml",
+		"/C/Users/demiller/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"//cgisagswebdev/iisroot$/PortlandMaps/bps/mapappexplorer/legend_150130.html",
+		"//cgisagswebdev/iisroot$/PortlandMaps/bps/mapappblue/legend.html",
+		"//cgisagswebdev/iisroot$/PortlandMaps/bps/mapappblue/js/widgets/bpsWidgets/bpsSwitch.js",
+		"//cgisagswebdev/iisroot$/PortlandMaps/bps/mapappblue/js/widgets/bpsWidgets/_maskUtils.js",
+		"//cgisagswebdev/iisroot$/PortlandMaps/bps/mapappblue/js/widgets/bpsWidgets/_maskUtils2.js",
+		"//cgisagswebdev/iisroot$/PortlandMaps/bps/mapappblue/js/utils/utils.js",
+		"//cgisagswebdev/iisroot$/PortlandMaps/bps/mapappblue/js/widgets/bpsWidgets/css/bpsCheckbox.css",
+		"//cgisagswebdev/iisroot$/PortlandMaps/bps/mapappblue/js/widgets/bpsWidgets/templates/bpsCheckbox.html",
+		"//cgisagswebdev/iisroot$/PortlandMaps/bps/mapappblue/js/widgets/bpsCheckbox/bpsCheckbox.js",
+		"//cgisagswebdev/iisroot$/PortlandMaps/bps/mapappblue/js/widgets/bpsListItem/templates/bpsListItem.html",
+		"//cgisagswebdev/iisroot$/PortlandMaps/bps/mapappblue/faq2.html",
+		"//cgisagswebdev/iisroot$/PortlandMaps/bps/mapappblue/contact2.html",
+		"//cgisagswebdev/iisroot$/PortlandMaps/bps/mapappblue/js/config/config.js",
+		"//cgisagswebdev/iisroot$/PortlandMaps/bps/mapappblue/legend-infrastructure.html",
+		"//cgisagswebdev/iisroot$/PortlandMaps/bps/mapappblue/legend-transportation.html",
+		"//cgisagswebdev/iisroot$/PortlandMaps/bps/mapappblue/js/widgets/bpsCheckbox/templates/bpsCheckbox.html",
+		"//cgisagswebdev/iisroot$/PortlandMaps/bps/mapappblue/js/widgets/bpsCheckbox/css/bpsCheckbox.css",
+		"//cgisagswebdev/iisroot$/PortlandMaps/bps/mapappblue/js/widgets/bpsListItem/css/bpsListItem.css",
+		"//cgisagswebdev/iisroot$/PortlandMaps/bps/mapappblue/js/widgets/bpsListItem/bpsListItem.js",
+		"//cgisagswebdev/iisroot$/PortlandMaps/bps/mapappblue/js/widgets/bpsCheckbox/common.js",
+		"//cgisagswebdev/iisroot$/PortlandMaps/bps/mapappblue/js/widgets/bpsCheckbox/uacss.js",
+		"//cgisagswebdev/iisroot$/PortlandMaps/bps/mapappblue/js/widgets/bpsCheckbox/Button.js",
+		"//cgisagswebdev/iisroot$/PortlandMaps/bps/mapappblue/js/widgets/bpsCheckbox/sniff.js",
+		"//cgisagswebdev/iisroot$/PortlandMaps/bps/mapappblue/js/widgets/bpsCheckbox/ToggleButton.js",
+		"//cgisagswebdev/iisroot$/PortlandMaps/bps/mapappblue/sftp-config.json",
+		"//cgisagswebdev/iisroot$/PortlandMaps/bps/mapappblue/index.html",
+		"//bpsfile1/support$/gis/sites/gis/php/cpmapp2Comments_xx.php",
+		"//cgisagswebdev/iisroot$/PortlandMaps/bps/mapappblue/js/main.js",
+		"//cgisagswebdev/iisroot$/PortlandMaps/bps/cpmapp2/js/utils/utils.js",
+		"//cgisagswebdev/iisroot$/PortlandMaps/bps/cpmapp2/js/config/config.js",
+		"//bpsfile1/support$/gis/sites/gis/php/cpmapp2Comments.php",
+		"//cgisagswebdev/iisroot$/PortlandMaps/bps/cpmapp2/js/config/planningDefinitions.js",
+		"//cgiswebdev/iisroot$/PortlandMaps/bps/cpmapp2/legend-transportation.html",
+		"//cgiswebdev/iisroot$/PortlandMaps/bps/cpmapp2/js/widgets/thatsWhatsUp/templates/thatsWhatsUp.html",
+		"//cgiswebdev/iisroot$/PortlandMaps/bps/cpmapp2/css/cpmapp2.css",
+		"//cgiswebdev/iisroot$/PortlandMaps/bps/cpmapp2/js/widgets/thatsWhatsUp/css/thatsWhatsUp.css",
+		"//cgiswebdev/iisroot$/PortlandMaps/bps/cpmapp2/js/utils/utils.js",
+		"//cgiswebdev/iisroot$/PortlandMaps/bps/cpmapp2/legend-landuse.html",
+		"//cgiswebdev/iisroot$/PortlandMaps/bps/cpmapp2/js/widgets/stolenGoods/stolenGoods.js",
+		"//cgiswebdev/iisroot$/PortlandMaps/bps/cpmapp2/js/config/config.js",
+		"//cgiswebdev/iisroot$/PortlandMaps/bps/cpmapp2/js/widgets/popupNav/popupNav.js",
+		"//cgiswebdev/iisroot$/PortlandMaps/bps/cpmapp2/js/widgets/thatsWhatsUp/thatsWhatsUp.js",
+		"//cgiswebdev/iisroot$/PortlandMaps/bps/cpmapp2/js/widgets/mobilePopupNav/css/mobilePopupNav.css",
+		"//cgiswebdev/iisroot$/PortlandMaps/bps/cpmapp2/splash.html",
+		"//cgiswebdev/iisroot$/PortlandMaps/bps/cpmapp2/index.html",
+		"//cgiswebdev/iisroot$/PortlandMaps/bps/cpmapp2/sftp-config.json",
+		"//cgiswebdev/iisroot$/PortlandMaps/bps/cpmapp2/js/main.js",
+		"//cgiswebdev/iisroot$/PortlandMaps/bps/cpmapp2/js/widgets/mobilePopupNav/mobilePopupNav.js",
+		"//cgiswebdev/iisroot$/PortlandMaps/bps/cpmapp2/js/widgets/mobilePopupNav/templates/mobilePopupNav.html",
+		"//cgiswebdev/iisroot$/PortlandMaps/bps/cpmapp2/js/config/planningDefinitions.js",
+		"//cgiswebdev/iisroot$/PortlandMaps/bps/cpmapp2/js/widgets/stolenGoods/templates/stolenGoods.html",
+		"//cgiswebdev/iisroot$/PortlandMaps/bps/cpmapp2/legend-infrastructure.html",
+		"//cgiswebdev/iisroot$/PortlandMaps/bps/cpmapp2/legend-cpmapp.html",
+		"//cgiswebdev/iisroot$/PortlandMaps/bps/cpmapp2/js/widgets/popupNav/css/popupNav.css",
+		"//cgiswebdev/iisroot$/PortlandMaps/bps/cpmapp2/js/widgets/popupNav/templates/popupNav.html",
+		"//cgiswebdev/iisroot$/PortlandMaps/bps/cpmapp2/phpTesting.html",
+		"//cgiswebdev/iisroot$/PortlandMaps/bps/cpmapp2/faq2.html",
+		"//cgiswebdev/iisroot$/PortlandMaps/bps/cpmapp2/contact2.html",
+		"/C/Users/demiller/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"//cgiswebdev/iisroot$/PortlandMaps/bps/cpmapp2/faq.html",
+		"//cgiswebdev/iisroot$/PortlandMaps/bps/cpmapp2/splash2.html",
+		"//cgiswebdev/iisroot$/PortlandMaps/bps/cpmapp2/js/widgets/stolenGoods/css/stolenGoods.css",
+		"//cgiswebdev/iisroot$/PortlandMaps/bps/cpmapp2/js/planningDefinitions.js",
+		"//cgiswebdev/iisroot$/PortlandMaps/bps/cpmapp2/js/bps_infoWindow.js",
+		"//cgiswebdev/iisroot$/PortlandMaps/bps/cpmapp2/cpmapp2.sublime-project",
+		"//bpsfile1/support$/gis/sites/gis/test/index.html",
+		"//cgiswebdev/iisroot$/PortlandMaps/bps/cpmapp2/css/cpma2.css",
+		"/C/Users/demiller/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"//cgiswebdev/iisroot$/PortlandMaps/bps/cpmapp2/Preferences.sublime-settings",
+		"//cgiswebdev/iisroot$/PortlandMaps/bps/cpmapp2/emma.html",
+		"//bpsfile1/support$/gis/sites/gis/cpmapp2/emma.html",
+		"//bpsfile1/support$/gis/sites/gis/cpmapp2/js/widgets/thatsWhatsUp/templates/thatsWhatsUp.html",
+		"//bpsfile1/support$/gis/sites/gis/cpmapp2/js/widgets/thatsWhatsUp/css/thatsWhatsUp.css",
+		"//bpsfile1/support$/gis/sites/gis/cpmapp2/js/widgets/thatsWhatsUp/thatsWhatsUp.js",
+		"//bpsfile1/support$/gis/sites/gis/cpmapp2/js/widgets/stolenGoods/templates/stolenGoods.html",
+		"//bpsfile1/support$/gis/sites/gis/cpmapp2/js/widgets/stolenGoods/stolenGoods.js",
+		"//bpsfile1/support$/gis/sites/gis/cpmapp2/js/widgets/stolenGoods/css/stolenGoods.css",
+		"/C/Users/demiller/AppData/Roaming/Sublime Text 3/Packages/User/SFTP.sublime-settings",
+		"//bpsfile1/support$/gis/sites/gis/cpmapp2/sftp-config.json",
+		"//bpsfile1/support$/gis/sites/gis/cpmapp2/cpmapp2.sublime-project",
+		"//bpsfile1/support$/gis/sites/gis/cpma2/js/config/config.js",
+		"//bpsfile1/support$/gis/sites/gis/cpma2/js/widgets/stolenGoods/stolenGoods.js",
+		"//bpsfile1/support$/gis/sites/gis/cpma2/js/utils/utils.js",
+		"//bpsfile1/support$/gis/sites/gis/cpma2/js/widgets/stolenGoods/css/stolenGoods.css",
+		"//bpsfile1/support$/gis/sites/gis/cpma2/js/widgets/stolenGoods/templates/stolenGoods.html",
+		"//bpsfile1/support$/gis/sites/gis/cpma2/cpma2.sublime-project",
+		"//bpsfile1/support$/gis/sites/gis/cpma2/sftp-config.json",
+		"//bpsfile1/support$/gis/sites/gis/cpma2/css/cpma2.css",
+		"//bpsfile1/support$/gis/sites/gis/cpma2/js/main.js",
+		"/C/Users/demiller/AppData/Roaming/Sublime Text 3/Packages/SVN/SVN.sublime-settings",
+		"//bpsfile1/support$/gis/sites/gis/protoType/app/series/core/Core.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"clear",
+			"JSON.",
+			"utils.",
+			"pMapsEx",
+			"'rese",
+			"reseting",
+			"tbc",
+			"respos",
+			"property_id",
+			"formObj.prop",
+			"property",
+			"propertyID",
+			"cfdum",
+			"caller_type",
+			"datasource",
+			"cfmdump",
+			"dateRe",
+			"primaryCallType",
+			"neighborhood",
+			"callerType",
+			"occupancy_type",
+			"calendarColor",
+			"pickupDay",
+			"callDescription",
+			"callType",
+			"call_type",
+			"callerAddress",
+			"callerName",
+			"caller_name",
+			"receivedBy",
+			"dateReceived",
+			"save",
+			"formObj",
+			"name",
+			"clearButton",
+			"clearForm",
+			"clearB",
+			"font",
+			"callTypeInput",
+			"occupancyInput",
+			"fff",
+			"white",
+			"ProjectSource",
+			"november",
+			"window.",
+			"window.loc",
+			"configMobi",
+			"centerT",
+			"proposed draft",
+			"Map App Blue",
+			"configF",
+			"hbDiv",
+			"configMobile",
+			"ro_dot",
+			"configMobile",
+			"ro_dot",
+			"configMo",
+			"navDot",
+			"configMobi",
+			"33B6E5",
+			"selected",
+			"configMobile",
+			"tabbar",
+			"configMobileUI",
+			"configMap",
+			"layers",
+			"buildLists2",
+			"setContent",
+			"#33b5e5",
+			"hB",
+			"home",
+			"configOptions",
+			"buildL",
+			"configD",
+			"config",
+			"win",
+			"query",
+			"new Che",
+			"hBu",
+			"hB",
+			"dark",
+			"bpsS",
+			"configRef",
+			"isMobileDevice",
+			"first",
+			"bannerDot",
+			"href",
+			"holder",
+			".html",
+			"lh2",
+			"legendHolder2",
+			"= new lege",
+			"legendView",
+			"rightPanelWrapper",
+			"contentW",
+			"configDes",
+			"referenceLayers",
+			"window.map",
+			"accordion",
+			"buildRe",
+			"referenceLayers",
+			"buildRe",
+			"fCo",
+			"luList",
+			"luList ",
+			"udfURL",
+			"buildLists",
+			":\"\"\n",
+			"we need a message",
+			"^\\n",
+			"internal",
+			"benRocks",
+			"prepQueryGeo",
+			"prepQuery",
+			"geocoderSelectionPrep",
+			"map.ce",
+			"getComments",
+			"console.log",
+			"mapConfig_the",
+			"mapConfig_tme",
+			"moreinfo_view",
+			"hiddenView",
+			"mapConfig_theme",
+			"getActiveLayer",
+			"getActive",
+			"mapConfig",
+			"hide_lu",
+			"mapConfig_them"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"property_id",
+			"caller_type",
+			"calendar_color",
+			"pickup_day",
+			"call_description",
+			"primary_call_type",
+			"caller_address",
+			"caller_name",
+			"date_received",
+			"value",
+			"resetButton",
+			"primaryCallTypeInput",
+			"callerTypeInput",
+			"roDot",
+			"33B5E5",
+			"map",
+			"configOptions.udfURL",
+			"",
+			"bubble",
+			"3s",
+			"animationStart",
+			"//console.log",
+			"<a href='http://www.portlandoregon.gov/bps/63692>Campus Institutional Zoning Update Project</a>",
+			"<a href='http://www.portlandoregon.gov/bps/63621>Mixed Use Zones Project</a>",
+			"'",
+			"<a href='http://www.portlandoregon.gov/bps/63621'>Mixed Use Zones Project</a>",
+			"<a href=\"http://www.portlandoregon.gov/bps/63621\">Mixed Use Zones Project</a>",
+			"'",
+			"image: \"\"",
+			"'",
+			"../fonts/icomoon/icomoon",
+			"",
+			"props=\"",
+			"Query",
+			"activeLayer",
+			"dom.byId",
+			"isMobileDevice",
+			"waterAreas",
+			"waterPoints",
+			"",
+			"whatsUpV2",
+			"domClass.remove",
+			"domClass.add",
+			"domClass.remove",
+			"utils.configDesktopUI",
+			"csp_toggle",
+			"appWrapper",
+			"appContainer",
+			"PortlandBPS",
+			"displayDescription:",
+			"displayTitle:",
+			"stolenGoods",
+			"mapID:"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": ".travis.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 123,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 209.0
+	},
+	"pinned_build_system": "",
+	"project": "travis.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"packagecontrol",
+				"Package Control Messages"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 195.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
